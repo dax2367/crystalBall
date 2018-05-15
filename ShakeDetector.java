@@ -6,10 +6,10 @@
 	Program:		Crystal Ball App (Magic Eight ball game)
 
 	Description:	This file is contains the sensor event listener that is wired into the accelerometer in the android device.
-						It defines what constitutes what a shake in terms of 3 dimensional space, inertia and time.
-						It also contains the OnShakeListener that would normally be in its own .java file but it is so small in this
-						case it was simpler and more straight forward to just put it at the end.
- 
+						It defines what constitutes what a shake in terms of 3 dimensional space, inertia 
+						and time. It also contains the OnShakeListener that would normally be in its own 
+						.java file but it is so small in this case it is simpler and more straight forward
+						to just put it at the end. 
  ========================================================================================*/
 
 package com.example.crystalball;
